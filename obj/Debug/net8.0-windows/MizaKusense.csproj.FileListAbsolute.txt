@@ -1,0 +1,14 @@
+c:\Users\Administrator\Documents\sense\bin\Debug\net8.0-windows\MizaKusense.exe
+c:\Users\Administrator\Documents\sense\bin\Debug\net8.0-windows\MizaKusense.deps.json
+c:\Users\Administrator\Documents\sense\bin\Debug\net8.0-windows\MizaKusense.runtimeconfig.json
+c:\Users\Administrator\Documents\sense\bin\Debug\net8.0-windows\MizaKusense.dll
+c:\Users\Administrator\Documents\sense\bin\Debug\net8.0-windows\MizaKusense.pdb
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.AssemblyInfoInputs.cache
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.AssemblyInfo.cs
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.dll
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\refint\MizaKusense.dll
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.pdb
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\MizaKusense.genruntimeconfig.cache
+c:\Users\Administrator\Documents\sense\obj\Debug\net8.0-windows\ref\MizaKusense.dll
